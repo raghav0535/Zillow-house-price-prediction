@@ -6,5 +6,10 @@ A home is often the largest and most expensive purchase a person makes in his or
 **Goal-**
 This is a Machine learning project used for predicting the log-error between the estimated value and actual sale price of a house using all the features of a home which are used to find the estimate value of the house. The use of this project is to find the range of the price of a house which can be considered by taking the estimation of the price and the log-error into consideration.
 
+**Steps**
+1.Loading the dataset
+2.Data Visualization and Data preprocessing
+3.Modelling Approched
+
 
 
